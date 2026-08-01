@@ -14,3 +14,23 @@ char Support::getReliabilityRating()
 {
     return reliabilityRating;
 }
+int Support::getPerformanceScore(){
+    performanceScore = speed * 5 + capacity * 5;
+    return performanceScore;
+}
+int Support::setCrewSize(int crewSize)
+{
+    if(crewSize>0){
+        this->crewSize = crewSize;
+        return 0;
+    }
+    return 1;
+}
+int Support::setReliabilityRating(char reliabilityRating)
+{
+    if(reliabilityRating=='A'||reliabilityRating=='B'||reliabilityRating=='C'){
+        this->reliabilityRating=reliabilityRating;
+        return 0;
+    }
+    return 1;
+}

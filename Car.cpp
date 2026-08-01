@@ -41,5 +41,47 @@ std::string Car::getFullName()
 }
 std::string Car::getRacingTeam()
 {
-    return fullName;
+    return racingTeam;
 }
+int Car::setAge(int age)
+{
+    if(age>0){
+        this->age = age;
+        return 0;
+    }
+    return 1;
+}
+int Car::setSpeed(int speed)
+{
+    if(speed>0){
+        this->speed = speed;
+        return 0;
+    }
+    return 1;
+}
+int Car::setCapacity(int capacity)
+{
+    if(capacity>0){
+        this->capacity = capacity;
+        return 0;
+    }
+    return 1;
+}
+int Car::setType(std::string type)
+{
+    if(type=="Racer" || type=="Support"){
+        this->type = type;
+        return 0;
+    }
+    return 1;
+}
+int Car::setFullName(std::string fullName){
+    this->fullName=fullName;
+    return 0;
+}
+int Car::setRacingTeam(std::string racingTeam)
+{
+    this->racingTeam=racingTeam;
+    return 0;
+}
+

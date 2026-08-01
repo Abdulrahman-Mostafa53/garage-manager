@@ -1,9 +1,12 @@
-#include <iostream>
-#include "Car.h"
-using namespace std;
+#include "gui.h"
 
-int main(){
-    Car car(10,10,10,10,"racer","full","racing team");
-    cout<<car.getAge();
-    return 0;
+#include <QApplication>
+#include "Garage.h"
+
+int main(int argc, char *argv[])
+{
+    QApplication a(argc, argv);
+    Gui w;
+    w.show();
+    return QApplication::exec();
 }
