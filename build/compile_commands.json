@@ -1,0 +1,50 @@
+[
+{
+  "directory": "D:/programming/c++/Task 4/build",
+  "command": "d:\\Programs\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -I\"D:/programming/c++/Task 4/build/garage_autogen/include\" -I\"D:/programming/c++/Task 4/build/_deps/json-src/include\" -isystem D:/Programs/Qt/6.11.1/mingw_64/include/QtCore -isystem D:/Programs/Qt/6.11.1/mingw_64/include -isystem D:/Programs/Qt/6.11.1/mingw_64/mkspecs/win32-g++ -isystem D:/Programs/Qt/6.11.1/mingw_64/include/QtWidgets -isystem D:/Programs/Qt/6.11.1/mingw_64/include/QtGui -DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG -g -std=gnu++17 -o CMakeFiles\\garage.dir\\garage_autogen\\mocs_compilation.cpp.obj -c \"D:\\programming\\c++\\Task 4\\build\\garage_autogen\\mocs_compilation.cpp\"",
+  "file": "D:\\programming\\c++\\Task 4\\build\\garage_autogen\\mocs_compilation.cpp",
+  "output": "CMakeFiles\\garage.dir\\garage_autogen\\mocs_compilation.cpp.obj"
+},
+{
+  "directory": "D:/programming/c++/Task 4/build",
+  "command": "d:\\Programs\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -I\"D:/programming/c++/Task 4/build/garage_autogen/include\" -I\"D:/programming/c++/Task 4/build/_deps/json-src/include\" -isystem D:/Programs/Qt/6.11.1/mingw_64/include/QtCore -isystem D:/Programs/Qt/6.11.1/mingw_64/include -isystem D:/Programs/Qt/6.11.1/mingw_64/mkspecs/win32-g++ -isystem D:/Programs/Qt/6.11.1/mingw_64/include/QtWidgets -isystem D:/Programs/Qt/6.11.1/mingw_64/include/QtGui -DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG -g -std=gnu++17 -o CMakeFiles\\garage.dir\\main.cpp.obj -c \"D:\\programming\\c++\\Task 4\\main.cpp\"",
+  "file": "D:\\programming\\c++\\Task 4\\main.cpp",
+  "output": "CMakeFiles\\garage.dir\\main.cpp.obj"
+},
+{
+  "directory": "D:/programming/c++/Task 4/build",
+  "command": "d:\\Programs\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -I\"D:/programming/c++/Task 4/build/garage_autogen/include\" -I\"D:/programming/c++/Task 4/build/_deps/json-src/include\" -isystem D:/Programs/Qt/6.11.1/mingw_64/include/QtCore -isystem D:/Programs/Qt/6.11.1/mingw_64/include -isystem D:/Programs/Qt/6.11.1/mingw_64/mkspecs/win32-g++ -isystem D:/Programs/Qt/6.11.1/mingw_64/include/QtWidgets -isystem D:/Programs/Qt/6.11.1/mingw_64/include/QtGui -DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG -g -std=gnu++17 -o CMakeFiles\\garage.dir\\gui.cpp.obj -c \"D:\\programming\\c++\\Task 4\\gui.cpp\"",
+  "file": "D:\\programming\\c++\\Task 4\\gui.cpp",
+  "output": "CMakeFiles\\garage.dir\\gui.cpp.obj"
+},
+{
+  "directory": "D:/programming/c++/Task 4/build",
+  "command": "d:\\Programs\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -I\"D:/programming/c++/Task 4/build/garage_autogen/include\" -I\"D:/programming/c++/Task 4/build/_deps/json-src/include\" -isystem D:/Programs/Qt/6.11.1/mingw_64/include/QtCore -isystem D:/Programs/Qt/6.11.1/mingw_64/include -isystem D:/Programs/Qt/6.11.1/mingw_64/mkspecs/win32-g++ -isystem D:/Programs/Qt/6.11.1/mingw_64/include/QtWidgets -isystem D:/Programs/Qt/6.11.1/mingw_64/include/QtGui -DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG -g -std=gnu++17 -o CMakeFiles\\garage.dir\\Car.cpp.obj -c \"D:\\programming\\c++\\Task 4\\Car.cpp\"",
+  "file": "D:\\programming\\c++\\Task 4\\Car.cpp",
+  "output": "CMakeFiles\\garage.dir\\Car.cpp.obj"
+},
+{
+  "directory": "D:/programming/c++/Task 4/build",
+  "command": "d:\\Programs\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -I\"D:/programming/c++/Task 4/build/garage_autogen/include\" -I\"D:/programming/c++/Task 4/build/_deps/json-src/include\" -isystem D:/Programs/Qt/6.11.1/mingw_64/include/QtCore -isystem D:/Programs/Qt/6.11.1/mingw_64/include -isystem D:/Programs/Qt/6.11.1/mingw_64/mkspecs/win32-g++ -isystem D:/Programs/Qt/6.11.1/mingw_64/include/QtWidgets -isystem D:/Programs/Qt/6.11.1/mingw_64/include/QtGui -DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG -g -std=gnu++17 -o CMakeFiles\\garage.dir\\Racer.cpp.obj -c \"D:\\programming\\c++\\Task 4\\Racer.cpp\"",
+  "file": "D:\\programming\\c++\\Task 4\\Racer.cpp",
+  "output": "CMakeFiles\\garage.dir\\Racer.cpp.obj"
+},
+{
+  "directory": "D:/programming/c++/Task 4/build",
+  "command": "d:\\Programs\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -I\"D:/programming/c++/Task 4/build/garage_autogen/include\" -I\"D:/programming/c++/Task 4/build/_deps/json-src/include\" -isystem D:/Programs/Qt/6.11.1/mingw_64/include/QtCore -isystem D:/Programs/Qt/6.11.1/mingw_64/include -isystem D:/Programs/Qt/6.11.1/mingw_64/mkspecs/win32-g++ -isystem D:/Programs/Qt/6.11.1/mingw_64/include/QtWidgets -isystem D:/Programs/Qt/6.11.1/mingw_64/include/QtGui -DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG -g -std=gnu++17 -o CMakeFiles\\garage.dir\\Support.cpp.obj -c \"D:\\programming\\c++\\Task 4\\Support.cpp\"",
+  "file": "D:\\programming\\c++\\Task 4\\Support.cpp",
+  "output": "CMakeFiles\\garage.dir\\Support.cpp.obj"
+},
+{
+  "directory": "D:/programming/c++/Task 4/build",
+  "command": "d:\\Programs\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -I\"D:/programming/c++/Task 4/build/garage_autogen/include\" -I\"D:/programming/c++/Task 4/build/_deps/json-src/include\" -isystem D:/Programs/Qt/6.11.1/mingw_64/include/QtCore -isystem D:/Programs/Qt/6.11.1/mingw_64/include -isystem D:/Programs/Qt/6.11.1/mingw_64/mkspecs/win32-g++ -isystem D:/Programs/Qt/6.11.1/mingw_64/include/QtWidgets -isystem D:/Programs/Qt/6.11.1/mingw_64/include/QtGui -DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG -g -std=gnu++17 -o CMakeFiles\\garage.dir\\Garage.cpp.obj -c \"D:\\programming\\c++\\Task 4\\Garage.cpp\"",
+  "file": "D:\\programming\\c++\\Task 4\\Garage.cpp",
+  "output": "CMakeFiles\\garage.dir\\Garage.cpp.obj"
+},
+{
+  "directory": "D:/programming/c++/Task 4/build",
+  "command": "d:\\Programs\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -I\"D:/programming/c++/Task 4/build/garage_autogen/include\" -I\"D:/programming/c++/Task 4/build/_deps/json-src/include\" -isystem D:/Programs/Qt/6.11.1/mingw_64/include/QtCore -isystem D:/Programs/Qt/6.11.1/mingw_64/include -isystem D:/Programs/Qt/6.11.1/mingw_64/mkspecs/win32-g++ -isystem D:/Programs/Qt/6.11.1/mingw_64/include/QtWidgets -isystem D:/Programs/Qt/6.11.1/mingw_64/include/QtGui -DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG -g -std=gnu++17 -o CMakeFiles\\garage.dir\\login.cpp.obj -c \"D:\\programming\\c++\\Task 4\\login.cpp\"",
+  "file": "D:\\programming\\c++\\Task 4\\login.cpp",
+  "output": "CMakeFiles\\garage.dir\\login.cpp.obj"
+}
+]

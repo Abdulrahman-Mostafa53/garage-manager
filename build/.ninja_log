@@ -1,0 +1,14 @@
+# ninja log v6
+5	853	8073188942256390	garage_autogen/timestamp	ba94defc1a8bdb35
+5	853	8073188942256390	garage_autogen/mocs_compilation.cpp	ba94defc1a8bdb35
+5	853	8073188942256390	D:/programming/c++/Task 4/build/garage_autogen/timestamp	ba94defc1a8bdb35
+5	853	8073188942256390	D:/programming/c++/Task 4/build/garage_autogen/mocs_compilation.cpp	ba94defc1a8bdb35
+885	1523	8073188943264254	CMakeFiles/garage.dir/Car.cpp.obj	405c42a37bd7d23f
+892	1526	8073188943341704	CMakeFiles/garage.dir/Racer.cpp.obj	8328bb5c9ee3af14
+902	1546	8073188943433570	CMakeFiles/garage.dir/Support.cpp.obj	ae0977ec0e7fa730
+911	4166	8073188943523562	CMakeFiles/garage.dir/Garage.cpp.obj	f4e2c41f4cc4768
+867	4883	8073188943084158	CMakeFiles/garage.dir/main.cpp.obj	ab4e3085843b0484
+859	5217	8073188943004020	CMakeFiles/garage.dir/garage_autogen/mocs_compilation.cpp.obj	24780944de4dae15
+920	5434	8073188943615936	CMakeFiles/garage.dir/login.cpp.obj	51781c66d764a355
+874	10795	8073188943158748	CMakeFiles/garage.dir/gui.cpp.obj	4212f071c435f3ba
+10796	13298	8073189042383646	garage.exe	e1421661113bd235

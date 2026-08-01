@@ -1,0 +1,15 @@
+D:/programming/c++/Task 4/build/CMakeFiles/garage.dir
+D:/programming/c++/Task 4/build/CMakeFiles/edit_cache.dir
+D:/programming/c++/Task 4/build/CMakeFiles/rebuild_cache.dir
+D:/programming/c++/Task 4/build/CMakeFiles/list_install_components.dir
+D:/programming/c++/Task 4/build/CMakeFiles/install.dir
+D:/programming/c++/Task 4/build/CMakeFiles/install/local.dir
+D:/programming/c++/Task 4/build/CMakeFiles/install/strip.dir
+D:/programming/c++/Task 4/build/CMakeFiles/garage_autogen_timestamp_deps.dir
+D:/programming/c++/Task 4/build/CMakeFiles/garage_autogen.dir
+D:/programming/c++/Task 4/build/_deps/json-build/CMakeFiles/edit_cache.dir
+D:/programming/c++/Task 4/build/_deps/json-build/CMakeFiles/rebuild_cache.dir
+D:/programming/c++/Task 4/build/_deps/json-build/CMakeFiles/list_install_components.dir
+D:/programming/c++/Task 4/build/_deps/json-build/CMakeFiles/install.dir
+D:/programming/c++/Task 4/build/_deps/json-build/CMakeFiles/install/local.dir
+D:/programming/c++/Task 4/build/_deps/json-build/CMakeFiles/install/strip.dir
