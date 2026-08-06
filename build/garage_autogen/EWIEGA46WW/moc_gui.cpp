@@ -50,7 +50,9 @@ template <> constexpr inline auto Gui::qt_create_metaobjectdata<qt_meta_tag_ZN3G
         "arg1",
         "on_editButton_clicked",
         "on_typeE_currentTextChanged",
-        "on_editNowBut_clicked"
+        "on_editNowBut_clicked",
+        "on_tabWidget_currentChanged",
+        "index"
     };
 
     QtMocHelpers::UintData qt_methods {
@@ -78,6 +80,10 @@ template <> constexpr inline auto Gui::qt_create_metaobjectdata<qt_meta_tag_ZN3G
         }}),
         // Slot 'on_editNowBut_clicked'
         QtMocHelpers::SlotData<void()>(12, 2, QMC::AccessPrivate, QMetaType::Void),
+        // Slot 'on_tabWidget_currentChanged'
+        QtMocHelpers::SlotData<void(int)>(13, 2, QMC::AccessPrivate, QMetaType::Void, {{
+            { QMetaType::Int, 14 },
+        }}),
     };
     QtMocHelpers::UintData qt_properties {
     };
@@ -111,6 +117,7 @@ void Gui::qt_static_metacall(QObject *_o, QMetaObject::Call _c, int _id, void **
         case 7: _t->on_editButton_clicked(); break;
         case 8: _t->on_typeE_currentTextChanged((*reinterpret_cast<std::add_pointer_t<QString>>(_a[1]))); break;
         case 9: _t->on_editNowBut_clicked(); break;
+        case 10: _t->on_tabWidget_currentChanged((*reinterpret_cast<std::add_pointer_t<int>>(_a[1]))); break;
         default: ;
         }
     }
@@ -135,14 +142,14 @@ int Gui::qt_metacall(QMetaObject::Call _c, int _id, void **_a)
     if (_id < 0)
         return _id;
     if (_c == QMetaObject::InvokeMetaMethod) {
-        if (_id < 10)
+        if (_id < 11)
             qt_static_metacall(this, _c, _id, _a);
-        _id -= 10;
+        _id -= 11;
     }
     if (_c == QMetaObject::RegisterMethodArgumentMetaType) {
-        if (_id < 10)
+        if (_id < 11)
             *reinterpret_cast<QMetaType *>(_a[0]) = QMetaType();
-        _id -= 10;
+        _id -= 11;
     }
     return _id;
 }

@@ -393,4 +393,6 @@ D:/programming/c++/Task\ 4/build/garage_autogen/EWIEGA46WW/moc_gui.cpp: D:/progr
   D:/Programs/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/vadefs.h \
   D:/Programs/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/wchar.h \
   D:/programming/c++/Task\ 4/Car.h \
-  D:/programming/c++/Task\ 4/Garage.h
+  D:/programming/c++/Task\ 4/Garage.h \
+  D:/programming/c++/Task\ 4/Racer.h \
+  D:/programming/c++/Task\ 4/Support.h

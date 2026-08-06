@@ -1,21 +1,39 @@
 # ninja log v6
-5	814	8073275237764937	garage_autogen/timestamp	ba94defc1a8bdb35
-5	814	8073275237764937	garage_autogen/mocs_compilation.cpp	ba94defc1a8bdb35
-5	814	8073275237764937	D:/programming/c++/Task 4/build/garage_autogen/timestamp	ba94defc1a8bdb35
-5	814	8073275237764937	D:/programming/c++/Task 4/build/garage_autogen/mocs_compilation.cpp	ba94defc1a8bdb35
-859	1523	8073275239005211	CMakeFiles/garage.dir/Racer.cpp.obj	8328bb5c9ee3af14
-848	1563	8073275238899223	CMakeFiles/garage.dir/Car.cpp.obj	405c42a37bd7d23f
-868	1564	8073275239097095	CMakeFiles/garage.dir/Support.cpp.obj	ae0977ec0e7fa730
-880	4820	8073275239222486	CMakeFiles/garage.dir/Garage.cpp.obj	f4e2c41f4cc4768
-829	5669	8073275238710485	CMakeFiles/garage.dir/main.cpp.obj	ab4e3085843b0484
-820	6018	8073275238622103	CMakeFiles/garage.dir/garage_autogen/mocs_compilation.cpp.obj	24780944de4dae15
-896	6328	8073275239382388	CMakeFiles/garage.dir/login.cpp.obj	51781c66d764a355
-838	11867	8073275238793495	CMakeFiles/garage.dir/gui.cpp.obj	4212f071c435f3ba
-11867	14355	8073275349096734	garage.exe	e1421661113bd235
-12	176	8073278080671404	garage_autogen/timestamp	ba94defc1a8bdb35
-12	176	8073278080671404	garage_autogen/mocs_compilation.cpp	ba94defc1a8bdb35
-12	176	8073278080671404	D:/programming/c++/Task 4/build/garage_autogen/timestamp	ba94defc1a8bdb35
-12	176	8073278080671404	D:/programming/c++/Task 4/build/garage_autogen/mocs_compilation.cpp	ba94defc1a8bdb35
-183	4625	8073278082375242	CMakeFiles/garage.dir/login.cpp.obj	51781c66d764a355
-176	13726	8073278082316368	CMakeFiles/garage.dir/gui.cpp.obj	4212f071c435f3ba
-13727	16230	8073278217819349	garage.exe	e1421661113bd235
+14	754	8076965068873348	garage_autogen/timestamp	ba94defc1a8bdb35
+14	754	8076965068873348	D:/programming/c++/Task 4/build/garage_autogen/mocs_compilation.cpp	ba94defc1a8bdb35
+14	754	8076965068873348	garage_autogen/mocs_compilation.cpp	ba94defc1a8bdb35
+14	754	8076965068873348	D:/programming/c++/Task 4/build/garage_autogen/timestamp	ba94defc1a8bdb35
+202	722	8076937715765082	CMakeFiles/garage.dir/Support.cpp.obj	ae0977ec0e7fa730
+797	1444	8076921522648583	CMakeFiles/garage.dir/Racer.cpp.obj	8328bb5c9ee3af14
+1268	2788	8076893723138335	CMakeFiles/garage.dir/Car.cpp.obj	405c42a37bd7d23f
+761	4846	8076965069671667	CMakeFiles/garage.dir/main.cpp.obj	ab4e3085843b0484
+755	5519	8076965069611439	CMakeFiles/garage.dir/garage_autogen/mocs_compilation.cpp.obj	24780944de4dae15
+786	5838	8076965069916758	CMakeFiles/garage.dir/login.cpp.obj	51781c66d764a355
+778	4499	8076965069830708	CMakeFiles/garage.dir/Garage.cpp.obj	f4e2c41f4cc4768
+770	12191	8076965069756671	CMakeFiles/garage.dir/gui.cpp.obj	4212f071c435f3ba
+11851	14823	8076954240429238	garage.exe	e1421661113bd235
+11	780	8076966703225479	garage_autogen/timestamp	ba94defc1a8bdb35
+11	780	8076966703225479	garage_autogen/mocs_compilation.cpp	ba94defc1a8bdb35
+11	780	8076966703225479	D:/programming/c++/Task 4/build/garage_autogen/timestamp	ba94defc1a8bdb35
+11	780	8076966703225479	D:/programming/c++/Task 4/build/garage_autogen/mocs_compilation.cpp	ba94defc1a8bdb35
+790	5052	8076966704126876	CMakeFiles/garage.dir/main.cpp.obj	ab4e3085843b0484
+781	5189	8076966704040714	CMakeFiles/garage.dir/garage_autogen/mocs_compilation.cpp.obj	24780944de4dae15
+808	5517	8076966704304884	CMakeFiles/garage.dir/login.cpp.obj	51781c66d764a355
+799	11565	8076966704212784	CMakeFiles/garage.dir/gui.cpp.obj	4212f071c435f3ba
+11565	14525	8076966811877306	garage.exe	e1421661113bd235
+13	228	8076967994605162	garage_autogen/timestamp	ba94defc1a8bdb35
+13	228	8076967994605162	garage_autogen/mocs_compilation.cpp	ba94defc1a8bdb35
+13	228	8076967994605162	D:/programming/c++/Task 4/build/garage_autogen/timestamp	ba94defc1a8bdb35
+13	228	8076967994605162	D:/programming/c++/Task 4/build/garage_autogen/mocs_compilation.cpp	ba94defc1a8bdb35
+228	4667	8076967996763842	CMakeFiles/garage.dir/main.cpp.obj	ab4e3085843b0484
+337	5053	8076967997853381	CMakeFiles/garage.dir/login.cpp.obj	51781c66d764a355
+327	10879	8076967997752616	CMakeFiles/garage.dir/gui.cpp.obj	4212f071c435f3ba
+10879	13838	8076968103266399	garage.exe	e1421661113bd235
+11	188	8076968478746327	garage_autogen/timestamp	ba94defc1a8bdb35
+11	188	8076968478746327	garage_autogen/mocs_compilation.cpp	ba94defc1a8bdb35
+11	188	8076968478746327	D:/programming/c++/Task 4/build/garage_autogen/timestamp	ba94defc1a8bdb35
+11	188	8076968478746327	D:/programming/c++/Task 4/build/garage_autogen/mocs_compilation.cpp	ba94defc1a8bdb35
+190	3556	8076968480534565	CMakeFiles/garage.dir/main.cpp.obj	ab4e3085843b0484
+208	4122	8076968480710500	CMakeFiles/garage.dir/login.cpp.obj	51781c66d764a355
+199	9273	8076968480630473	CMakeFiles/garage.dir/gui.cpp.obj	4212f071c435f3ba
+9273	11670	8076968571368399	garage.exe	e1421661113bd235

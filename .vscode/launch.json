@@ -18,7 +18,8 @@
                     "value": "D:/Programs/Qt/6.11.1/mingw_64/plugins"
                 }
             ],
-            "externalConsole": true,
+            "externalConsole": false,
+            "console":"integratedTerminal",
             "MIMode": "gdb",
             "miDebuggerPath": "D:/Programs/Qt/Tools/mingw1310_64/bin/gdb.exe",
             "setupCommands": [

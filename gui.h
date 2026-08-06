@@ -40,6 +40,8 @@ private slots:
 
     void on_editNowBut_clicked();
 
+    void on_tabWidget_currentChanged(int index);
+
 private:
     Ui::Garage *ui;
     Garage garage;

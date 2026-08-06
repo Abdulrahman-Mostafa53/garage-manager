@@ -11,11 +11,12 @@
 #include <QMessageBox>
 
 using json = nlohmann::json;
-
+int currentTab=0;
 Gui::Gui(QWidget *parent)
     : QWidget(parent)
     , ui(new Ui::Garage)
 {
+    // setup the ui and load data
     ui->setupUi(this);
     ui->crewSizeC->hide();
     ui->reliabilityRatingC->hide();
@@ -487,5 +488,15 @@ void Gui::on_editNowBut_clicked()
         output_file<<config.dump(4);
         output_file.close();
     }
+}
+
+
+void Gui::on_tabWidget_currentChanged(int index)
+{
+    if(currentTab==3){
+        ui->dataFrame->hide();
+        ui->editFrame->hide();
+    }
+    currentTab = index;
 }
 

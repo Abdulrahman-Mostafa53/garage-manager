@@ -1,0 +1,16 @@
+{
+    "cars": [
+        {
+            "age": 1,
+            "capacity": 2,
+            "fullName": "mc queen",
+            "lapsComp": 1,
+            "numOfRaces": 1,
+            "number": 2,
+            "performanceScore": 12,
+            "racingTeam": "i dont have a team :\\",
+            "speed": 1,
+            "type": "Racer"
+        }
+    ]
+}

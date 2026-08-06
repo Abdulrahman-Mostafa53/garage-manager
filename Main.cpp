@@ -1,12 +1,12 @@
 #include "gui.h"
 
 #include <QApplication>
-#include "Garage.h"
+#include "login.h"
 
 int main(int argc, char *argv[])
 {
     QApplication a(argc, argv);
-    Gui w;
+    Login w;
     w.show();
     return QApplication::exec();
 }
