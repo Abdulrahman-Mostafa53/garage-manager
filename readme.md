@@ -28,7 +28,7 @@ lightweight C++ desktop application built with Qt for managing your cars. Featur
 ### 🚀 Quick Start
 
 #### Prerequisites
-* Qt 6.x installed with CMake or qmake support.
+* Qt 6.11.1 installed with CMake or qmake support.
 * C++ compatible compiler (e.g., GCC/MinGW, MSVC).
 
 #### Building & Running
